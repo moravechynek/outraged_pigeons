@@ -2,8 +2,11 @@
 
 Simple PC game inspired by Angry Birds.
 
-## Todo
+## Build
 
-- preklad
-- sdl okna a pozadi
-- chipmunk
+```cd build
+cmake ..
+cd ..
+make
+./main
+```
